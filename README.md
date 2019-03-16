@@ -1,2 +1,2 @@
-# webpack-example
-Example of 'webpack' configuration 
+# modal-example
+Example of 'react-bootstrap' creating a modal
